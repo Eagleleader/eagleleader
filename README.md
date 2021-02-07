@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a complete digitalization of an entire business application in .Net 5.0
+My name is Jonathan and I'm a Microsoft tech Lover. I'm currently a CTO for a group company based in Luxembourg and Geneva. During my free time, I write articles and I code application to always be aware of the new technologies features.
+
+- 🔭 I’m currently working on and rewriting a complete digitalization of an entire business application and echo system
 - 🌱 I’m currently learning architecting complex applications
 - 👯 I’m looking to collaborate on projects related to .Net 5.0
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything related to Microsoft & Software Development
 - 📫 How to reach me: see the links below
-- 😄 Pronouns: My nickname is Eagleleader but I prefer you call me Eagle
 - ⚡ Fun fact: I can eat French fries each day ;)
 
 <b>My favorites technologies:</b>&nbsp;<img src='https://camo.githubusercontent.com/260a209982c56c72532782201af3ab3f5967844708cf64e851d8eaa820eb187e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66742d3636363636363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674266c6f676f436f6c6f723d7768697465' />&nbsp;<img src='https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465' />&nbsp;<img src='https://camo.githubusercontent.com/dd433625a6e00049c26f08143705ff9e32d5da44f503f1be133664b11e37e34b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465' />&nbsp;<img src='https://camo.githubusercontent.com/f36a579a7440dd2cd03da4903249f86d0d44cb7020fd902512bccd139784b363/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465' />&nbsp;<img src='https://camo.githubusercontent.com/d25c4d1cf1c4f610accb01dc371fc0dbd82da827e81d32f8afeff28e5b289043/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f58616d6172696e2d3334393844423f7374796c653d666f722d7468652d6261646765266c6f676f3d78616d6172696e266c6f676f436f6c6f723d7768697465' />
